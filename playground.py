@@ -50,15 +50,21 @@ def main():
     st.table(data=df.head())
     st.subheader("North Dakota Data Tail")
     st.table(data=df.tail())
-    st.subheader("Relevant Metadata")
-    st.table(data=metadata)
     st.write("---")
     st.subheader("Model Building")
     columnlst = ['discuss', 'CO2limits', 'trustclimsciSST', 'regulate', 'supportRPS', 'fundrenewables', 'happening', 'human', 'consensus', 'worried', 'personal', 'harmUS', 'devharm', 'futuregen', 'harmplants', 'timing']
-        
+
+    expanded_columnlst = []
+    for i in range(len(columnlst)):
+        for j in range(len(metadata)):
+            if metadata["VARIABLE NAME"][j] == columnlst[i]:
+                expanded_columnlst.append(metadata["VARIABLE NAME"][j] + ' --> ' + metadata["VARIABLE DESCRIPTION"][j])
+
+
+
     with st.form("my_form"):
         st.write("Choose what variables you'd like in your model: ")
-        form_items = [st.checkbox(col) for col in columnlst]
+        form_items = [st.checkbox(col) for col in expanded_columnlst]
         submit = st.form_submit_button()
 
     if submit:
