@@ -2,6 +2,8 @@
 
 A demo using [Streamlit](https://streamlit.io) to showcase potential impact of variable selection and consideration of data. Designed for a presentation for students
 
+Check out the live URL at: [https://data-and-decision-making-demo.streamlit.app](https://data-and-decision-making-demo.streamlit.app)
+
 Data extracted from: 
 
 Howe, P. D., Mildenberger, M., Marlon, J. R., & Leiserowitz, A. (2015). Geographic variation
