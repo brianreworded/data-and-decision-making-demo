@@ -13,5 +13,5 @@ in opinions on climate change at state and local scales in the USA. Nature Clima
 
 ```
 pip install --upgrade streamlit
-streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/main/streamlit_app.py
+streamlit run https://raw.githubusercontent.com/brianreworded/data-and-decision-making-demo/blob/main/playground.py
 ```
