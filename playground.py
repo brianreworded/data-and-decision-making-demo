@@ -80,6 +80,7 @@ def main():
         st.plotly_chart(fig)
 
 
+        st.subheader("State Predictions")        
         predicted_df = pd.DataFrame(list(zip(df["StateDiff"], base_pred_prob, df["stateName"])), columns=["Real State", "Predicted State (0 = California, 1 = North Dakota)", "State Name"])
 
         fig2 = px.box(predicted_df, x="State Name", y="Predicted State (0 = California, 1 = North Dakota)", color="State Name", color_discrete_map={"blue": "lime", "green": "pink"})
