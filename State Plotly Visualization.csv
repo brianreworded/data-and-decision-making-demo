@@ -1,0 +1,1505 @@
+,state,county,question,score
+0,California,Fresno County,discuss,38.439
+1,California,Fresno County,CO2limits,70.1
+2,California,Fresno County,trustclimsciSST,66.399
+3,California,Fresno County,regulate,72.131
+4,California,Fresno County,supportRPS,65.596
+5,California,Fresno County,fundrenewables,81.605
+6,California,Fresno County,happening,71.088
+7,California,Fresno County,human,54.617
+8,California,Fresno County,consensus,46.499
+9,California,Fresno County,worried,64.3
+10,California,Fresno County,personal,46.668
+11,California,Fresno County,harmUS,62.223
+12,California,Fresno County,devharm,65.95
+13,California,Fresno County,futuregen,72.362
+14,California,Fresno County,harmplants,71.724
+15,California,Fresno County,timing,55.665
+16,California,Glenn County,discuss,34.414
+17,California,Glenn County,CO2limits,63.898
+18,California,Glenn County,trustclimsciSST,64.289
+19,California,Glenn County,regulate,70.485
+20,California,Glenn County,supportRPS,62.057
+21,California,Glenn County,fundrenewables,78.865
+22,California,Glenn County,happening,67.496
+23,California,Glenn County,human,50.575
+24,California,Glenn County,consensus,44.935
+25,California,Glenn County,worried,56.081
+26,California,Glenn County,personal,41.271
+27,California,Glenn County,harmUS,57.382
+28,California,Glenn County,devharm,61.412
+29,California,Glenn County,futuregen,68.323
+30,California,Glenn County,harmplants,67.883
+31,California,Glenn County,timing,50.132
+32,California,Humboldt County,discuss,39.592
+33,California,Humboldt County,CO2limits,73.638
+34,California,Humboldt County,trustclimsciSST,74.176
+35,California,Humboldt County,regulate,77.052
+36,California,Humboldt County,supportRPS,70.288
+37,California,Humboldt County,fundrenewables,84.618
+38,California,Humboldt County,happening,76.644
+39,California,Humboldt County,human,58.574
+40,California,Humboldt County,consensus,57.789
+41,California,Humboldt County,worried,63.382
+42,California,Humboldt County,personal,41.237
+43,California,Humboldt County,harmUS,61.509
+44,California,Humboldt County,devharm,67.183
+45,California,Humboldt County,futuregen,74.274
+46,California,Humboldt County,harmplants,74.515
+47,California,Humboldt County,timing,54.971
+48,California,Imperial County,discuss,34.047
+49,California,Imperial County,CO2limits,72.461
+50,California,Imperial County,trustclimsciSST,70.178
+51,California,Imperial County,regulate,75.344
+52,California,Imperial County,supportRPS,67.752
+53,California,Imperial County,fundrenewables,80.949
+54,California,Imperial County,happening,74.6
+55,California,Imperial County,human,60.201
+56,California,Imperial County,consensus,50.345
+57,California,Imperial County,worried,69.111
+58,California,Imperial County,personal,51.495
+59,California,Imperial County,harmUS,66.383
+60,California,Imperial County,devharm,69.857
+61,California,Imperial County,futuregen,75.079
+62,California,Imperial County,harmplants,74.404
+63,California,Imperial County,timing,58.744
+64,California,Inyo County,discuss,35.351
+65,California,Inyo County,CO2limits,63.429
+66,California,Inyo County,trustclimsciSST,64.938
+67,California,Inyo County,regulate,70.644
+68,California,Inyo County,supportRPS,61.091
+69,California,Inyo County,fundrenewables,80.545
+70,California,Inyo County,happening,68.535
+71,California,Inyo County,human,49.865
+72,California,Inyo County,consensus,45.582
+73,California,Inyo County,worried,57.047
+74,California,Inyo County,personal,40.247
+75,California,Inyo County,harmUS,57.52
+76,California,Inyo County,devharm,61.996
+77,California,Inyo County,futuregen,68.979
+78,California,Inyo County,harmplants,68.838
+79,California,Inyo County,timing,50.564
+80,California,Kern County,discuss,31.601
+81,California,Kern County,CO2limits,65.856
+82,California,Kern County,trustclimsciSST,65.937
+83,California,Kern County,regulate,71.027
+84,California,Kern County,supportRPS,62.381
+85,California,Kern County,fundrenewables,78.761
+86,California,Kern County,happening,68.914
+87,California,Kern County,human,51.336
+88,California,Kern County,consensus,45.498
+89,California,Kern County,worried,57.539
+90,California,Kern County,personal,43.274
+91,California,Kern County,harmUS,58.225
+92,California,Kern County,devharm,61.977
+93,California,Kern County,futuregen,64.853
+94,California,Kern County,harmplants,63.505
+95,California,Kern County,timing,50.468
+96,California,Kings County,discuss,33.716
+97,California,Kings County,CO2limits,66.438
+98,California,Kings County,trustclimsciSST,66.236
+99,California,Kings County,regulate,71.435
+100,California,Kings County,supportRPS,63.642
+101,California,Kings County,fundrenewables,79.53
+102,California,Kings County,happening,68.247
+103,California,Kings County,human,52.402
+104,California,Kings County,consensus,44.971
+105,California,Kings County,worried,58.808
+106,California,Kings County,personal,44.595
+107,California,Kings County,harmUS,59.608
+108,California,Kings County,devharm,63.845
+109,California,Kings County,futuregen,68.966
+110,California,Kings County,harmplants,68.666
+111,California,Kings County,timing,51.835
+112,California,Lake County,discuss,37.362
+113,California,Lake County,CO2limits,70.551
+114,California,Lake County,trustclimsciSST,69.358
+115,California,Lake County,regulate,75.973
+116,California,Lake County,supportRPS,66.854
+117,California,Lake County,fundrenewables,83.269
+118,California,Lake County,happening,72.47
+119,California,Lake County,human,54.94
+120,California,Lake County,consensus,51.13
+121,California,Lake County,worried,61.21
+122,California,Lake County,personal,41.386
+123,California,Lake County,harmUS,59.817
+124,California,Lake County,devharm,64.944
+125,California,Lake County,futuregen,72.949
+126,California,Lake County,harmplants,72.902
+127,California,Lake County,timing,54.012
+128,California,Lassen County,discuss,33.185
+129,California,Lassen County,CO2limits,61.129
+130,California,Lassen County,trustclimsciSST,63.76
+131,California,Lassen County,regulate,69.687
+132,California,Lassen County,supportRPS,60.993
+133,California,Lassen County,fundrenewables,78.845
+134,California,Lassen County,happening,64.986
+135,California,Lassen County,human,48.353
+136,California,Lassen County,consensus,44.127
+137,California,Lassen County,worried,51.649
+138,California,Lassen County,personal,37.859
+139,California,Lassen County,harmUS,53.816
+140,California,Lassen County,devharm,58.352
+141,California,Lassen County,futuregen,65.441
+142,California,Lassen County,harmplants,64.88
+143,California,Lassen County,timing,46.319
+144,California,Los Angeles County,discuss,38.29
+145,California,Los Angeles County,CO2limits,77.323
+146,California,Los Angeles County,trustclimsciSST,73.222
+147,California,Los Angeles County,regulate,75.964
+148,California,Los Angeles County,supportRPS,68.587
+149,California,Los Angeles County,fundrenewables,80.627
+150,California,Los Angeles County,happening,74.227
+151,California,Los Angeles County,human,61.09
+152,California,Los Angeles County,consensus,57.251
+153,California,Los Angeles County,worried,67.845
+154,California,Los Angeles County,personal,51.817
+155,California,Los Angeles County,harmUS,67.038
+156,California,Los Angeles County,devharm,70.879
+157,California,Los Angeles County,futuregen,75.619
+158,California,Los Angeles County,harmplants,74.877
+159,California,Los Angeles County,timing,57.823
+160,California,Madera County,discuss,32.55
+161,California,Madera County,CO2limits,65.483
+162,California,Madera County,trustclimsciSST,64.919
+163,California,Madera County,regulate,70.637
+164,California,Madera County,supportRPS,61.897
+165,California,Madera County,fundrenewables,78.037
+166,California,Madera County,happening,69.158
+167,California,Madera County,human,52.161
+168,California,Madera County,consensus,44.399
+169,California,Madera County,worried,60.024
+170,California,Madera County,personal,44.359
+171,California,Madera County,harmUS,59.814
+172,California,Madera County,devharm,63.368
+173,California,Madera County,futuregen,69.338
+174,California,Madera County,harmplants,69.125
+175,California,Madera County,timing,52.857
+176,California,Marin County,discuss,47.693
+177,California,Marin County,CO2limits,77.421
+178,California,Marin County,trustclimsciSST,76.885
+179,California,Marin County,regulate,79.556
+180,California,Marin County,supportRPS,73.296
+181,California,Marin County,fundrenewables,86.484
+182,California,Marin County,happening,80.013
+183,California,Marin County,human,62.459
+184,California,Marin County,consensus,63.616
+185,California,Marin County,worried,68.306
+186,California,Marin County,personal,45.418
+187,California,Marin County,harmUS,66.238
+188,California,Marin County,devharm,72.765
+189,California,Marin County,futuregen,78.998
+190,California,Marin County,harmplants,78.686
+191,California,Marin County,timing,59.19
+192,California,Mariposa County,discuss,40.404
+193,California,Mariposa County,CO2limits,67.575
+194,California,Mariposa County,trustclimsciSST,67.469
+195,California,Mariposa County,regulate,72.763
+196,California,Mariposa County,supportRPS,63.842
+197,California,Mariposa County,fundrenewables,82.812
+198,California,Mariposa County,happening,71.099
+199,California,Mariposa County,human,51.931
+200,California,Mariposa County,consensus,52.338
+201,California,Mariposa County,worried,57.887
+202,California,Mariposa County,personal,40.554
+203,California,Mariposa County,harmUS,59.027
+204,California,Mariposa County,devharm,64.129
+205,California,Mariposa County,futuregen,71.105
+206,California,Mariposa County,harmplants,70.864
+207,California,Mariposa County,timing,50.967
+208,California,Mendocino County,discuss,39.027
+209,California,Mendocino County,CO2limits,74.469
+210,California,Mendocino County,trustclimsciSST,73.01
+211,California,Mendocino County,regulate,77.824
+212,California,Mendocino County,supportRPS,69.748
+213,California,Mendocino County,fundrenewables,84.902
+214,California,Mendocino County,happening,76.51
+215,California,Mendocino County,human,58.767
+216,California,Mendocino County,consensus,55.906
+217,California,Mendocino County,worried,64.835
+218,California,Mendocino County,personal,43.635
+219,California,Mendocino County,harmUS,62.806
+220,California,Mendocino County,devharm,68.353
+221,California,Mendocino County,futuregen,75.985
+222,California,Mendocino County,harmplants,75.292
+223,California,Mendocino County,timing,56.934
+224,California,Merced County,discuss,35.346
+225,California,Merced County,CO2limits,69.434
+226,California,Merced County,trustclimsciSST,66.474
+227,California,Merced County,regulate,73.876
+228,California,Merced County,supportRPS,65.035
+229,California,Merced County,fundrenewables,81.106
+230,California,Merced County,happening,72.416
+231,California,Merced County,human,55.492
+232,California,Merced County,consensus,46.203
+233,California,Merced County,worried,63.431
+234,California,Merced County,personal,46.719
+235,California,Merced County,harmUS,62.391
+236,California,Merced County,devharm,65.982
+237,California,Merced County,futuregen,72.2
+238,California,Merced County,harmplants,72.229
+239,California,Merced County,timing,55.558
+240,California,Modoc County,discuss,36.88
+241,California,Modoc County,CO2limits,60.431
+242,California,Modoc County,trustclimsciSST,61.131
+243,California,Modoc County,regulate,67.82
+244,California,Modoc County,supportRPS,58.264
+245,California,Modoc County,fundrenewables,79.682
+246,California,Modoc County,happening,66.808
+247,California,Modoc County,human,48.212
+248,California,Modoc County,consensus,45.674
+249,California,Modoc County,worried,53.42
+250,California,Modoc County,personal,38.81
+251,California,Modoc County,harmUS,55.948
+252,California,Modoc County,devharm,60.119
+253,California,Modoc County,futuregen,67.804
+254,California,Modoc County,harmplants,67.496
+255,California,Modoc County,timing,48.445
+256,California,Mono County,discuss,41.755
+257,California,Mono County,CO2limits,70.098
+258,California,Mono County,trustclimsciSST,67.771
+259,California,Mono County,regulate,72.603
+260,California,Mono County,supportRPS,64.908
+261,California,Mono County,fundrenewables,82.88
+262,California,Mono County,happening,74.098
+263,California,Mono County,human,55.398
+264,California,Mono County,consensus,54.452
+265,California,Mono County,worried,62.973
+266,California,Mono County,personal,43.848
+267,California,Mono County,harmUS,62.417
+268,California,Mono County,devharm,67.506
+269,California,Mono County,futuregen,74.193
+270,California,Mono County,harmplants,73.948
+271,California,Mono County,timing,55.159
+272,California,Monterey County,discuss,39.473
+273,California,Monterey County,CO2limits,77.348
+274,California,Monterey County,trustclimsciSST,73.745
+275,California,Monterey County,regulate,76.841
+276,California,Monterey County,supportRPS,71.572
+277,California,Monterey County,fundrenewables,82.45
+278,California,Monterey County,happening,77.094
+279,California,Monterey County,human,61.39
+280,California,Monterey County,consensus,56.706
+281,California,Monterey County,worried,69.062
+282,California,Monterey County,personal,49.62
+283,California,Monterey County,harmUS,66.931
+284,California,Monterey County,devharm,71.603
+285,California,Monterey County,futuregen,76.83
+286,California,Monterey County,harmplants,77.032
+287,California,Monterey County,timing,59.616
+288,California,Napa County,discuss,41.197
+289,California,Napa County,CO2limits,75.136
+290,California,Napa County,trustclimsciSST,75.714
+291,California,Napa County,regulate,78.631
+292,California,Napa County,supportRPS,72.626
+293,California,Napa County,fundrenewables,84.906
+294,California,Napa County,happening,75.368
+295,California,Napa County,human,60.458
+296,California,Napa County,consensus,57.728
+297,California,Napa County,worried,64.974
+298,California,Napa County,personal,44.179
+299,California,Napa County,harmUS,63.25
+300,California,Napa County,devharm,69.046
+301,California,Napa County,futuregen,75.461
+302,California,Napa County,harmplants,75.119
+303,California,Napa County,timing,56.699
+304,California,Nevada County,discuss,39.769
+305,California,Nevada County,CO2limits,67.711
+306,California,Nevada County,trustclimsciSST,70.097
+307,California,Nevada County,regulate,74.758
+308,California,Nevada County,supportRPS,66.704
+309,California,Nevada County,fundrenewables,83.12
+310,California,Nevada County,happening,70.193
+311,California,Nevada County,human,53.417
+312,California,Nevada County,consensus,51.548
+313,California,Nevada County,worried,57.476
+314,California,Nevada County,personal,37.817
+315,California,Nevada County,harmUS,57.009
+316,California,Nevada County,devharm,63.292
+317,California,Nevada County,futuregen,71.005
+318,California,Nevada County,harmplants,70.553
+319,California,Nevada County,timing,50.525
+320,California,Orange County,discuss,35.792
+321,California,Orange County,CO2limits,67.828
+322,California,Orange County,trustclimsciSST,71.158
+323,California,Orange County,regulate,74.79
+324,California,Orange County,supportRPS,65.39
+325,California,Orange County,fundrenewables,81.646
+326,California,Orange County,happening,72.33
+327,California,Orange County,human,56.453
+328,California,Orange County,consensus,51.825
+329,California,Orange County,worried,60.217
+330,California,Orange County,personal,43.948
+331,California,Orange County,harmUS,60.436
+332,California,Orange County,devharm,65.774
+333,California,Orange County,futuregen,74.098
+334,California,Orange County,harmplants,74.173
+335,California,Orange County,timing,53.235
+336,California,Placer County,discuss,36.587
+337,California,Placer County,CO2limits,64.668
+338,California,Placer County,trustclimsciSST,68.695
+339,California,Placer County,regulate,72.634
+340,California,Placer County,supportRPS,64.702
+341,California,Placer County,fundrenewables,81.743
+342,California,Placer County,happening,69.399
+343,California,Placer County,human,51.377
+344,California,Placer County,consensus,50.092
+345,California,Placer County,worried,55.156
+346,California,Placer County,personal,37.628
+347,California,Placer County,harmUS,55.159
+348,California,Placer County,devharm,61.43
+349,California,Placer County,futuregen,69.201
+350,California,Placer County,harmplants,68.567
+351,California,Placer County,timing,47.616
+352,California,Plumas County,discuss,36.478
+353,California,Plumas County,CO2limits,65.087
+354,California,Plumas County,trustclimsciSST,68.013
+355,California,Plumas County,regulate,72.762
+356,California,Plumas County,supportRPS,64.379
+357,California,Plumas County,fundrenewables,81.847
+358,California,Plumas County,happening,68.455
+359,California,Plumas County,human,51.039
+360,California,Plumas County,consensus,49.071
+361,California,Plumas County,worried,55.248
+362,California,Plumas County,personal,37.623
+363,California,Plumas County,harmUS,55.887
+364,California,Plumas County,devharm,61.287
+365,California,Plumas County,futuregen,68.87
+366,California,Plumas County,harmplants,68.514
+367,California,Plumas County,timing,48.626
+368,California,Riverside County,discuss,37.823
+369,California,Riverside County,CO2limits,70.888
+370,California,Riverside County,trustclimsciSST,68.964
+371,California,Riverside County,regulate,75.169
+372,California,Riverside County,supportRPS,69.977
+373,California,Riverside County,fundrenewables,82.432
+374,California,Riverside County,happening,72.444
+375,California,Riverside County,human,56.926
+376,California,Riverside County,consensus,51.392
+377,California,Riverside County,worried,62.54
+378,California,Riverside County,personal,44.761
+379,California,Riverside County,harmUS,61.946
+380,California,Riverside County,devharm,66.629
+381,California,Riverside County,futuregen,73.618
+382,California,Riverside County,harmplants,73.384
+383,California,Riverside County,timing,53.019
+384,California,Sacramento County,discuss,35.626
+385,California,Sacramento County,CO2limits,73.661
+386,California,Sacramento County,trustclimsciSST,73.653
+387,California,Sacramento County,regulate,77.123
+388,California,Sacramento County,supportRPS,70.285
+389,California,Sacramento County,fundrenewables,82.306
+390,California,Sacramento County,happening,76.565
+391,California,Sacramento County,human,55.639
+392,California,Sacramento County,consensus,58.107
+393,California,Sacramento County,worried,62.892
+394,California,Sacramento County,personal,44.519
+395,California,Sacramento County,harmUS,62.12
+396,California,Sacramento County,devharm,67.715
+397,California,Sacramento County,futuregen,75.103
+398,California,Sacramento County,harmplants,76.378
+399,California,Sacramento County,timing,54.695
+400,California,San Benito County,discuss,36.163
+401,California,San Benito County,CO2limits,71.128
+402,California,San Benito County,trustclimsciSST,68.611
+403,California,San Benito County,regulate,74.686
+404,California,San Benito County,supportRPS,65.738
+405,California,San Benito County,fundrenewables,81.455
+406,California,San Benito County,happening,73.765
+407,California,San Benito County,human,57.463
+408,California,San Benito County,consensus,50.104
+409,California,San Benito County,worried,65.037
+410,California,San Benito County,personal,46.589
+411,California,San Benito County,harmUS,63.128
+412,California,San Benito County,devharm,67.117
+413,California,San Benito County,futuregen,73.98
+414,California,San Benito County,harmplants,73.955
+415,California,San Benito County,timing,56.779
+416,California,San Bernardino County,discuss,34.276
+417,California,San Bernardino County,CO2limits,69.908
+418,California,San Bernardino County,trustclimsciSST,69.439
+419,California,San Bernardino County,regulate,78.444
+420,California,San Bernardino County,supportRPS,64.83
+421,California,San Bernardino County,fundrenewables,82.166
+422,California,San Bernardino County,happening,74.291
+423,California,San Bernardino County,human,55.901
+424,California,San Bernardino County,consensus,48.083
+425,California,San Bernardino County,worried,64.063
+426,California,San Bernardino County,personal,46.701
+427,California,San Bernardino County,harmUS,62.535
+428,California,San Bernardino County,devharm,67.142
+429,California,San Bernardino County,futuregen,73.08
+430,California,San Bernardino County,harmplants,72.785
+431,California,San Bernardino County,timing,57.18
+432,California,San Diego County,discuss,37.421
+433,California,San Diego County,CO2limits,70.038
+434,California,San Diego County,trustclimsciSST,73.09
+435,California,San Diego County,regulate,75.396
+436,California,San Diego County,supportRPS,68.278
+437,California,San Diego County,fundrenewables,82.464
+438,California,San Diego County,happening,72.643
+439,California,San Diego County,human,54.002
+440,California,San Diego County,consensus,52.345
+441,California,San Diego County,worried,62.612
+442,California,San Diego County,personal,42.551
+443,California,San Diego County,harmUS,61.152
+444,California,San Diego County,devharm,67.37
+445,California,San Diego County,futuregen,72.32
+446,California,San Diego County,harmplants,72.901
+447,California,San Diego County,timing,53.852
+448,California,San Francisco County,discuss,49.841
+449,California,San Francisco County,CO2limits,79.657
+450,California,San Francisco County,trustclimsciSST,78.69
+451,California,San Francisco County,regulate,80.491
+452,California,San Francisco County,supportRPS,73.561
+453,California,San Francisco County,fundrenewables,87.45
+454,California,San Francisco County,happening,83.329
+455,California,San Francisco County,human,65.941
+456,California,San Francisco County,consensus,68.142
+457,California,San Francisco County,worried,72.334
+458,California,San Francisco County,personal,49.725
+459,California,San Francisco County,harmUS,69.689
+460,California,San Francisco County,devharm,75.633
+461,California,San Francisco County,futuregen,80.935
+462,California,San Francisco County,harmplants,81.185
+463,California,San Francisco County,timing,62.643
+464,California,San Joaquin County,discuss,35.63
+465,California,San Joaquin County,CO2limits,70.602
+466,California,San Joaquin County,trustclimsciSST,69.631
+467,California,San Joaquin County,regulate,74.64
+468,California,San Joaquin County,supportRPS,66.858
+469,California,San Joaquin County,fundrenewables,82.03
+470,California,San Joaquin County,happening,75.439
+471,California,San Joaquin County,human,58.111
+472,California,San Joaquin County,consensus,53.803
+473,California,San Joaquin County,worried,64.499
+474,California,San Joaquin County,personal,46.365
+475,California,San Joaquin County,harmUS,63.114
+476,California,San Joaquin County,devharm,67.425
+477,California,San Joaquin County,futuregen,73.035
+478,California,San Joaquin County,harmplants,74.612
+479,California,San Joaquin County,timing,56.459
+480,California,San Luis Obispo County,discuss,36.872
+481,California,San Luis Obispo County,CO2limits,69.031
+482,California,San Luis Obispo County,trustclimsciSST,71.342
+483,California,San Luis Obispo County,regulate,74.427
+484,California,San Luis Obispo County,supportRPS,66.943
+485,California,San Luis Obispo County,fundrenewables,82.434
+486,California,San Luis Obispo County,happening,74.286
+487,California,San Luis Obispo County,human,55.455
+488,California,San Luis Obispo County,consensus,53.87
+489,California,San Luis Obispo County,worried,59.606
+490,California,San Luis Obispo County,personal,40.389
+491,California,San Luis Obispo County,harmUS,59.38
+492,California,San Luis Obispo County,devharm,64.508
+493,California,San Luis Obispo County,futuregen,73.287
+494,California,San Luis Obispo County,harmplants,72.366
+495,California,San Luis Obispo County,timing,51.641
+496,California,San Mateo County,discuss,44.532
+497,California,San Mateo County,CO2limits,77.563
+498,California,San Mateo County,trustclimsciSST,78.016
+499,California,San Mateo County,regulate,80.973
+500,California,San Mateo County,supportRPS,73.437
+501,California,San Mateo County,fundrenewables,86.027
+502,California,San Mateo County,happening,80.435
+503,California,San Mateo County,human,64.993
+504,California,San Mateo County,consensus,62.078
+505,California,San Mateo County,worried,70.429
+506,California,San Mateo County,personal,47.577
+507,California,San Mateo County,harmUS,67.742
+508,California,San Mateo County,devharm,73.344
+509,California,San Mateo County,futuregen,78.27
+510,California,San Mateo County,harmplants,77.098
+511,California,San Mateo County,timing,61.353
+512,California,Santa Barbara County,discuss,40.769
+513,California,Santa Barbara County,CO2limits,74.628
+514,California,Santa Barbara County,trustclimsciSST,72.085
+515,California,Santa Barbara County,regulate,75.203
+516,California,Santa Barbara County,supportRPS,69.151
+517,California,Santa Barbara County,fundrenewables,82.521
+518,California,Santa Barbara County,happening,75.09
+519,California,Santa Barbara County,human,59.739
+520,California,Santa Barbara County,consensus,56.048
+521,California,Santa Barbara County,worried,65.85
+522,California,Santa Barbara County,personal,47.189
+523,California,Santa Barbara County,harmUS,65.054
+524,California,Santa Barbara County,devharm,70.539
+525,California,Santa Barbara County,futuregen,74.665
+526,California,Santa Barbara County,harmplants,74.985
+527,California,Santa Barbara County,timing,57.947
+528,California,Santa Clara County,discuss,42.001
+529,California,Santa Clara County,CO2limits,75.513
+530,California,Santa Clara County,trustclimsciSST,76.552
+531,California,Santa Clara County,regulate,77.034
+532,California,Santa Clara County,supportRPS,72.528
+533,California,Santa Clara County,fundrenewables,86.398
+534,California,Santa Clara County,happening,79.214
+535,California,Santa Clara County,human,63.727
+536,California,Santa Clara County,consensus,60.127
+537,California,Santa Clara County,worried,68.343
+538,California,Santa Clara County,personal,48.25
+539,California,Santa Clara County,harmUS,66.666
+540,California,Santa Clara County,devharm,72.796
+541,California,Santa Clara County,futuregen,78.643
+542,California,Santa Clara County,harmplants,77.168
+543,California,Santa Clara County,timing,59.623
+544,California,Santa Cruz County,discuss,44.981
+545,California,Santa Cruz County,CO2limits,77.982
+546,California,Santa Cruz County,trustclimsciSST,76.824
+547,California,Santa Cruz County,regulate,79.992
+548,California,Santa Cruz County,supportRPS,73.649
+549,California,Santa Cruz County,fundrenewables,86.043
+550,California,Santa Cruz County,happening,80.063
+551,California,Santa Cruz County,human,65.267
+552,California,Santa Cruz County,consensus,63.334
+553,California,Santa Cruz County,worried,68.389
+554,California,Santa Cruz County,personal,46.306
+555,California,Santa Cruz County,harmUS,65.826
+556,California,Santa Cruz County,devharm,72.455
+557,California,Santa Cruz County,futuregen,78.884
+558,California,Santa Cruz County,harmplants,78.317
+559,California,Santa Cruz County,timing,59.127
+560,California,Shasta County,discuss,31.789
+561,California,Shasta County,CO2limits,60.27
+562,California,Shasta County,trustclimsciSST,65.234
+563,California,Shasta County,regulate,71.179
+564,California,Shasta County,supportRPS,61.684
+565,California,Shasta County,fundrenewables,80.485
+566,California,Shasta County,happening,64.792
+567,California,Shasta County,human,47.798
+568,California,Shasta County,consensus,42.432
+569,California,Shasta County,worried,50.622
+570,California,Shasta County,personal,34.918
+571,California,Shasta County,harmUS,52.13
+572,California,Shasta County,devharm,57.069
+573,California,Shasta County,futuregen,66.393
+574,California,Shasta County,harmplants,66.678
+575,California,Shasta County,timing,46.808
+576,California,Sierra County,discuss,32.832
+577,California,Sierra County,CO2limits,58.967
+578,California,Sierra County,trustclimsciSST,62.906
+579,California,Sierra County,regulate,69.191
+580,California,Sierra County,supportRPS,59.521
+581,California,Sierra County,fundrenewables,79.333
+582,California,Sierra County,happening,64.167
+583,California,Sierra County,human,46.92
+584,California,Sierra County,consensus,41.695
+585,California,Sierra County,worried,51.915
+586,California,Sierra County,personal,36.305
+587,California,Sierra County,harmUS,53.299
+588,California,Sierra County,devharm,57.768
+589,California,Sierra County,futuregen,66.055
+590,California,Sierra County,harmplants,65.717
+591,California,Sierra County,timing,46.805
+592,California,Siskiyou County,discuss,37.895
+593,California,Siskiyou County,CO2limits,65.363
+594,California,Siskiyou County,trustclimsciSST,67.787
+595,California,Siskiyou County,regulate,72.594
+596,California,Siskiyou County,supportRPS,64.328
+597,California,Siskiyou County,fundrenewables,82.166
+598,California,Siskiyou County,happening,70.489
+599,California,Siskiyou County,human,52.323
+600,California,Siskiyou County,consensus,49.595
+601,California,Siskiyou County,worried,57.394
+602,California,Siskiyou County,personal,38.956
+603,California,Siskiyou County,harmUS,57.194
+604,California,Siskiyou County,devharm,62.688
+605,California,Siskiyou County,futuregen,70.689
+606,California,Siskiyou County,harmplants,70.449
+607,California,Siskiyou County,timing,50.276
+608,California,Solano County,discuss,35.414
+609,California,Solano County,CO2limits,73.176
+610,California,Solano County,trustclimsciSST,73.299
+611,California,Solano County,regulate,76.91
+612,California,Solano County,supportRPS,69.56
+613,California,Solano County,fundrenewables,83.639
+614,California,Solano County,happening,73.278
+615,California,Solano County,human,57.439
+616,California,Solano County,consensus,52.729
+617,California,Solano County,worried,63.322
+618,California,Solano County,personal,45.591
+619,California,Solano County,harmUS,63.494
+620,California,Solano County,devharm,68.449
+621,California,Solano County,futuregen,74.537
+622,California,Solano County,harmplants,74.535
+623,California,Solano County,timing,56.826
+624,California,Sonoma County,discuss,41.359
+625,California,Sonoma County,CO2limits,76.235
+626,California,Sonoma County,trustclimsciSST,76.399
+627,California,Sonoma County,regulate,79.469
+628,California,Sonoma County,supportRPS,74.172
+629,California,Sonoma County,fundrenewables,85.268
+630,California,Sonoma County,happening,76.965
+631,California,Sonoma County,human,61.467
+632,California,Sonoma County,consensus,59.71
+633,California,Sonoma County,worried,66.117
+634,California,Sonoma County,personal,44.047
+635,California,Sonoma County,harmUS,63.276
+636,California,Sonoma County,devharm,69.403
+637,California,Sonoma County,futuregen,77.224
+638,California,Sonoma County,harmplants,76.537
+639,California,Sonoma County,timing,57.126
+640,California,Stanislaus County,discuss,33.894
+641,California,Stanislaus County,CO2limits,67.913
+642,California,Stanislaus County,trustclimsciSST,69.135
+643,California,Stanislaus County,regulate,74.687
+644,California,Stanislaus County,supportRPS,66.107
+645,California,Stanislaus County,fundrenewables,80.003
+646,California,Stanislaus County,happening,69.585
+647,California,Stanislaus County,human,55.888
+648,California,Stanislaus County,consensus,48.25
+649,California,Stanislaus County,worried,60.763
+650,California,Stanislaus County,personal,43.714
+651,California,Stanislaus County,harmUS,59.811
+652,California,Stanislaus County,devharm,63.323
+653,California,Stanislaus County,futuregen,70.735
+654,California,Stanislaus County,harmplants,70.431
+655,California,Stanislaus County,timing,52.907
+656,California,Sutter County,discuss,34.983
+657,California,Sutter County,CO2limits,65.333
+658,California,Sutter County,trustclimsciSST,67.816
+659,California,Sutter County,regulate,72.364
+660,California,Sutter County,supportRPS,64.282
+661,California,Sutter County,fundrenewables,80.603
+662,California,Sutter County,happening,68.265
+663,California,Sutter County,human,52.689
+664,California,Sutter County,consensus,46.891
+665,California,Sutter County,worried,57.439
+666,California,Sutter County,personal,41.768
+667,California,Sutter County,harmUS,58.657
+668,California,Sutter County,devharm,63.139
+669,California,Sutter County,futuregen,68.995
+670,California,Sutter County,harmplants,68.681
+671,California,Sutter County,timing,50.456
+672,California,Tehama County,discuss,33.154
+673,California,Tehama County,CO2limits,62.655
+674,California,Tehama County,trustclimsciSST,65.021
+675,California,Tehama County,regulate,70.661
+676,California,Tehama County,supportRPS,61.896
+677,California,Tehama County,fundrenewables,80.084
+678,California,Tehama County,happening,66.153
+679,California,Tehama County,human,48.416
+680,California,Tehama County,consensus,43.669
+681,California,Tehama County,worried,54.513
+682,California,Tehama County,personal,38.709
+683,California,Tehama County,harmUS,55.329
+684,California,Tehama County,devharm,59.894
+685,California,Tehama County,futuregen,67.728
+686,California,Tehama County,harmplants,67.459
+687,California,Tehama County,timing,48.085
+688,California,Trinity County,discuss,39.138
+689,California,Trinity County,CO2limits,68.098
+690,California,Trinity County,trustclimsciSST,68.626
+691,California,Trinity County,regulate,73.222
+692,California,Trinity County,supportRPS,65.15
+693,California,Trinity County,fundrenewables,82.917
+694,California,Trinity County,happening,71.674
+695,California,Trinity County,human,52.769
+696,California,Trinity County,consensus,51.849
+697,California,Trinity County,worried,58.761
+698,California,Trinity County,personal,40.174
+699,California,Trinity County,harmUS,58.934
+700,California,Trinity County,devharm,64.114
+701,California,Trinity County,futuregen,71.068
+702,California,Trinity County,harmplants,70.927
+703,California,Trinity County,timing,52.042
+704,California,Tulare County,discuss,34.338
+705,California,Tulare County,CO2limits,66.91
+706,California,Tulare County,trustclimsciSST,66.292
+707,California,Tulare County,regulate,70.778
+708,California,Tulare County,supportRPS,64.407
+709,California,Tulare County,fundrenewables,79.473
+710,California,Tulare County,happening,68.74
+711,California,Tulare County,human,54.691
+712,California,Tulare County,consensus,47.465
+713,California,Tulare County,worried,60.976
+714,California,Tulare County,personal,46.197
+715,California,Tulare County,harmUS,61.126
+716,California,Tulare County,devharm,64.717
+717,California,Tulare County,futuregen,70.303
+718,California,Tulare County,harmplants,70.442
+719,California,Tulare County,timing,53.059
+720,California,Tuolumne County,discuss,35.103
+721,California,Tuolumne County,CO2limits,64.356
+722,California,Tuolumne County,trustclimsciSST,66.743
+723,California,Tuolumne County,regulate,72.057
+724,California,Tuolumne County,supportRPS,63.983
+725,California,Tuolumne County,fundrenewables,81.031
+726,California,Tuolumne County,happening,66.992
+727,California,Tuolumne County,human,49.838
+728,California,Tuolumne County,consensus,46.674
+729,California,Tuolumne County,worried,53.89
+730,California,Tuolumne County,personal,37.301
+731,California,Tuolumne County,harmUS,54.726
+732,California,Tuolumne County,devharm,59.823
+733,California,Tuolumne County,futuregen,67.601
+734,California,Tuolumne County,harmplants,67.599
+735,California,Tuolumne County,timing,48.409
+736,California,Ventura County,discuss,37.848
+737,California,Ventura County,CO2limits,70.362
+738,California,Ventura County,trustclimsciSST,71.313
+739,California,Ventura County,regulate,75.149
+740,California,Ventura County,supportRPS,67.96
+741,California,Ventura County,fundrenewables,82.551
+742,California,Ventura County,happening,73.828
+743,California,Ventura County,human,55.532
+744,California,Ventura County,consensus,52.856
+745,California,Ventura County,worried,62.659
+746,California,Ventura County,personal,44.25
+747,California,Ventura County,harmUS,61.292
+748,California,Ventura County,devharm,66.289
+749,California,Ventura County,futuregen,72.526
+750,California,Ventura County,harmplants,72.874
+751,California,Ventura County,timing,53.872
+752,California,Yolo County,discuss,43.989
+753,California,Yolo County,CO2limits,76.658
+754,California,Yolo County,trustclimsciSST,75.055
+755,California,Yolo County,regulate,78.06
+756,California,Yolo County,supportRPS,71.668
+757,California,Yolo County,fundrenewables,84.837
+758,California,Yolo County,happening,79.04
+759,California,Yolo County,human,62.132
+760,California,Yolo County,consensus,59.546
+761,California,Yolo County,worried,69.365
+762,California,Yolo County,personal,48.094
+763,California,Yolo County,harmUS,66.915
+764,California,Yolo County,devharm,72.298
+765,California,Yolo County,futuregen,78.28
+766,California,Yolo County,harmplants,78.633
+767,California,Yolo County,timing,59.668
+768,California,Yuba County,discuss,36.179
+769,California,Yuba County,CO2limits,65.715
+770,California,Yuba County,trustclimsciSST,67.47
+771,California,Yuba County,regulate,73.013
+772,California,Yuba County,supportRPS,64.918
+773,California,Yuba County,fundrenewables,81.17
+774,California,Yuba County,happening,69.077
+775,California,Yuba County,human,51.189
+776,California,Yuba County,consensus,48.486
+777,California,Yuba County,worried,56.863
+778,California,Yuba County,personal,40.767
+779,California,Yuba County,harmUS,57.894
+780,California,Yuba County,devharm,62.496
+781,California,Yuba County,futuregen,69.993
+782,California,Yuba County,harmplants,69.73
+783,California,Yuba County,timing,50.463
+784,North Dakota,Cass County,discuss,32.555
+785,North Dakota,Cass County,CO2limits,64.994
+786,North Dakota,Cass County,trustclimsciSST,70.697
+787,North Dakota,Cass County,regulate,73.351
+788,North Dakota,Cass County,supportRPS,64.93
+789,North Dakota,Cass County,fundrenewables,83.764
+790,North Dakota,Cass County,happening,67.531
+791,North Dakota,Cass County,human,50.665
+792,North Dakota,Cass County,consensus,46.948
+793,North Dakota,Cass County,worried,52.612
+794,North Dakota,Cass County,personal,33.651
+795,North Dakota,Cass County,harmUS,53.049
+796,North Dakota,Cass County,devharm,59.204
+797,North Dakota,Cass County,futuregen,68.935
+798,North Dakota,Cass County,harmplants,67.772
+799,North Dakota,Cass County,timing,45.521
+800,North Dakota,Cavalier County,discuss,31.288
+801,North Dakota,Cavalier County,CO2limits,62.818
+802,North Dakota,Cavalier County,trustclimsciSST,66.707
+803,North Dakota,Cavalier County,regulate,70.625
+804,North Dakota,Cavalier County,supportRPS,62.323
+805,North Dakota,Cavalier County,fundrenewables,81.573
+806,North Dakota,Cavalier County,happening,64.94
+807,North Dakota,Cavalier County,human,48.116
+808,North Dakota,Cavalier County,consensus,44.315
+809,North Dakota,Cavalier County,worried,51.733
+810,North Dakota,Cavalier County,personal,34.129
+811,North Dakota,Cavalier County,harmUS,52.886
+812,North Dakota,Cavalier County,devharm,57.781
+813,North Dakota,Cavalier County,futuregen,66.444
+814,North Dakota,Cavalier County,harmplants,65.278
+815,North Dakota,Cavalier County,timing,44.648
+816,North Dakota,Dickey County,discuss,31.139
+817,North Dakota,Dickey County,CO2limits,60.178
+818,North Dakota,Dickey County,trustclimsciSST,63.918
+819,North Dakota,Dickey County,regulate,68.538
+820,North Dakota,Dickey County,supportRPS,58.97
+821,North Dakota,Dickey County,fundrenewables,80.099
+822,North Dakota,Dickey County,happening,64.056
+823,North Dakota,Dickey County,human,46.473
+824,North Dakota,Dickey County,consensus,42.202
+825,North Dakota,Dickey County,worried,50.692
+826,North Dakota,Dickey County,personal,34.234
+827,North Dakota,Dickey County,harmUS,52.441
+828,North Dakota,Dickey County,devharm,56.785
+829,North Dakota,Dickey County,futuregen,65.644
+830,North Dakota,Dickey County,harmplants,64.557
+831,North Dakota,Dickey County,timing,44.563
+832,North Dakota,Divide County,discuss,30.781
+833,North Dakota,Divide County,CO2limits,44.702
+834,North Dakota,Divide County,trustclimsciSST,61.347
+835,North Dakota,Divide County,regulate,62.267
+836,North Dakota,Divide County,supportRPS,54.792
+837,North Dakota,Divide County,fundrenewables,77.486
+838,North Dakota,Divide County,happening,60.064
+839,North Dakota,Divide County,human,43.745
+840,North Dakota,Divide County,consensus,35.804
+841,North Dakota,Divide County,worried,52.586
+842,North Dakota,Divide County,personal,36.696
+843,North Dakota,Divide County,harmUS,55.887
+844,North Dakota,Divide County,devharm,59.414
+845,North Dakota,Divide County,futuregen,66.309
+846,North Dakota,Divide County,harmplants,63.42
+847,North Dakota,Divide County,timing,40.2
+848,North Dakota,Dunn County,discuss,33.46
+849,North Dakota,Dunn County,CO2limits,58.332
+850,North Dakota,Dunn County,trustclimsciSST,61.68
+851,North Dakota,Dunn County,regulate,65.979
+852,North Dakota,Dunn County,supportRPS,56.72
+853,North Dakota,Dunn County,fundrenewables,79.76
+854,North Dakota,Dunn County,happening,64.295
+855,North Dakota,Dunn County,human,45.777
+856,North Dakota,Dunn County,consensus,43.074
+857,North Dakota,Dunn County,worried,50.886
+858,North Dakota,Dunn County,personal,36.224
+859,North Dakota,Dunn County,harmUS,54.571
+860,North Dakota,Dunn County,devharm,58.365
+861,North Dakota,Dunn County,futuregen,66.069
+862,North Dakota,Dunn County,harmplants,64.821
+863,North Dakota,Dunn County,timing,44.256
+864,North Dakota,Eddy County,discuss,35.034
+865,North Dakota,Eddy County,CO2limits,69.644
+866,North Dakota,Eddy County,trustclimsciSST,71.564
+867,North Dakota,Eddy County,regulate,74.912
+868,North Dakota,Eddy County,supportRPS,66.986
+869,North Dakota,Eddy County,fundrenewables,83.752
+870,North Dakota,Eddy County,happening,70.503
+871,North Dakota,Eddy County,human,53.705
+872,North Dakota,Eddy County,consensus,52.275
+873,North Dakota,Eddy County,worried,56.836
+874,North Dakota,Eddy County,personal,37.385
+875,North Dakota,Eddy County,harmUS,57.396
+876,North Dakota,Eddy County,devharm,62.608
+877,North Dakota,Eddy County,futuregen,70.404
+878,North Dakota,Eddy County,harmplants,69.354
+879,North Dakota,Eddy County,timing,47.863
+880,North Dakota,Emmons County,discuss,32.303
+881,North Dakota,Emmons County,CO2limits,57.742
+882,North Dakota,Emmons County,trustclimsciSST,60.361
+883,North Dakota,Emmons County,regulate,65.697
+884,North Dakota,Emmons County,supportRPS,55.616
+885,North Dakota,Emmons County,fundrenewables,78.962
+886,North Dakota,Emmons County,happening,62.573
+887,North Dakota,Emmons County,human,44.429
+888,North Dakota,Emmons County,consensus,41.52
+889,North Dakota,Emmons County,worried,49.353
+890,North Dakota,Emmons County,personal,35.049
+891,North Dakota,Emmons County,harmUS,52.997
+892,North Dakota,Emmons County,devharm,56.283
+893,North Dakota,Emmons County,futuregen,64.464
+894,North Dakota,Emmons County,harmplants,63.303
+895,North Dakota,Emmons County,timing,43.484
+896,North Dakota,Foster County,discuss,28.712
+897,North Dakota,Foster County,CO2limits,58.914
+898,North Dakota,Foster County,trustclimsciSST,63.512
+899,North Dakota,Foster County,regulate,68.732
+900,North Dakota,Foster County,supportRPS,58.908
+901,North Dakota,Foster County,fundrenewables,79.625
+902,North Dakota,Foster County,happening,62.016
+903,North Dakota,Foster County,human,45.295
+904,North Dakota,Foster County,consensus,39.505
+905,North Dakota,Foster County,worried,48.72
+906,North Dakota,Foster County,personal,32.416
+907,North Dakota,Foster County,harmUS,50.079
+908,North Dakota,Foster County,devharm,54.506
+909,North Dakota,Foster County,futuregen,63.973
+910,North Dakota,Foster County,harmplants,62.91
+911,North Dakota,Foster County,timing,43.23
+912,North Dakota,Golden Valley County,discuss,31.816
+913,North Dakota,Golden Valley County,CO2limits,57.327
+914,North Dakota,Golden Valley County,trustclimsciSST,63.328
+915,North Dakota,Golden Valley County,regulate,67.394
+916,North Dakota,Golden Valley County,supportRPS,58.298
+917,North Dakota,Golden Valley County,fundrenewables,79.826
+918,North Dakota,Golden Valley County,happening,61.754
+919,North Dakota,Golden Valley County,human,44.506
+920,North Dakota,Golden Valley County,consensus,42.154
+921,North Dakota,Golden Valley County,worried,46.854
+922,North Dakota,Golden Valley County,personal,32.374
+923,North Dakota,Golden Valley County,harmUS,50.339
+924,North Dakota,Golden Valley County,devharm,54.806
+925,North Dakota,Golden Valley County,futuregen,63.378
+926,North Dakota,Golden Valley County,harmplants,61.977
+927,North Dakota,Golden Valley County,timing,40.977
+928,North Dakota,Grand Forks County,discuss,30.911
+929,North Dakota,Grand Forks County,CO2limits,64.367
+930,North Dakota,Grand Forks County,trustclimsciSST,68.643
+931,North Dakota,Grand Forks County,regulate,72.283
+932,North Dakota,Grand Forks County,supportRPS,64.511
+933,North Dakota,Grand Forks County,fundrenewables,81.987
+934,North Dakota,Grand Forks County,happening,65.686
+935,North Dakota,Grand Forks County,human,49.628
+936,North Dakota,Grand Forks County,consensus,46.446
+937,North Dakota,Grand Forks County,worried,54.245
+938,North Dakota,Grand Forks County,personal,34.635
+939,North Dakota,Grand Forks County,harmUS,53.909
+940,North Dakota,Grand Forks County,devharm,59.609
+941,North Dakota,Grand Forks County,futuregen,68.239
+942,North Dakota,Grand Forks County,harmplants,66.865
+943,North Dakota,Grand Forks County,timing,46.176
+944,North Dakota,Grant County,discuss,32.935
+945,North Dakota,Grant County,CO2limits,59.438
+946,North Dakota,Grant County,trustclimsciSST,61.645
+947,North Dakota,Grant County,regulate,66.775
+948,North Dakota,Grant County,supportRPS,56.778
+949,North Dakota,Grant County,fundrenewables,79.761
+950,North Dakota,Grant County,happening,64.036
+951,North Dakota,Grant County,human,45.537
+952,North Dakota,Grant County,consensus,43.066
+953,North Dakota,Grant County,worried,50.456
+954,North Dakota,Grant County,personal,35.56
+955,North Dakota,Grant County,harmUS,53.828
+956,North Dakota,Grant County,devharm,57.36
+957,North Dakota,Grant County,futuregen,65.585
+958,North Dakota,Grant County,harmplants,64.537
+959,North Dakota,Grant County,timing,44.454
+960,North Dakota,Griggs County,discuss,29.394
+961,North Dakota,Griggs County,CO2limits,61.171
+962,North Dakota,Griggs County,trustclimsciSST,64.598
+963,North Dakota,Griggs County,regulate,69.061
+964,North Dakota,Griggs County,supportRPS,59.813
+965,North Dakota,Griggs County,fundrenewables,80.547
+966,North Dakota,Griggs County,happening,64.706
+967,North Dakota,Griggs County,human,46.757
+968,North Dakota,Griggs County,consensus,41.692
+969,North Dakota,Griggs County,worried,50.493
+970,North Dakota,Griggs County,personal,33.577
+971,North Dakota,Griggs County,harmUS,52.074
+972,North Dakota,Griggs County,devharm,56.244
+973,North Dakota,Griggs County,futuregen,66.057
+974,North Dakota,Griggs County,harmplants,64.475
+975,North Dakota,Griggs County,timing,44.634
+976,North Dakota,Hettinger County,discuss,29.581
+977,North Dakota,Hettinger County,CO2limits,56.227
+978,North Dakota,Hettinger County,trustclimsciSST,60.869
+979,North Dakota,Hettinger County,regulate,66.33
+980,North Dakota,Hettinger County,supportRPS,55.967
+981,North Dakota,Hettinger County,fundrenewables,78.66
+982,North Dakota,Hettinger County,happening,60.299
+983,North Dakota,Hettinger County,human,43.231
+984,North Dakota,Hettinger County,consensus,38.651
+985,North Dakota,Hettinger County,worried,47.312
+986,North Dakota,Hettinger County,personal,33.385
+987,North Dakota,Hettinger County,harmUS,50.669
+988,North Dakota,Hettinger County,devharm,54.158
+989,North Dakota,Hettinger County,futuregen,63.209
+990,North Dakota,Hettinger County,harmplants,62.118
+991,North Dakota,Hettinger County,timing,42.286
+992,North Dakota,Kidder County,discuss,34.514
+993,North Dakota,Kidder County,CO2limits,62.364
+994,North Dakota,Kidder County,trustclimsciSST,64.288
+995,North Dakota,Kidder County,regulate,68.507
+996,North Dakota,Kidder County,supportRPS,59.665
+997,North Dakota,Kidder County,fundrenewables,81.016
+998,North Dakota,Kidder County,happening,66.284
+999,North Dakota,Kidder County,human,47.965
+1000,North Dakota,Kidder County,consensus,46.464
+1001,North Dakota,Kidder County,worried,52.837
+1002,North Dakota,Kidder County,personal,36.419
+1003,North Dakota,Kidder County,harmUS,55.388
+1004,North Dakota,Kidder County,devharm,59.511
+1005,North Dakota,Kidder County,futuregen,67.429
+1006,North Dakota,Kidder County,harmplants,66.246
+1007,North Dakota,Kidder County,timing,45.559
+1008,North Dakota,LaMoure County,discuss,32.62
+1009,North Dakota,LaMoure County,CO2limits,61.684
+1010,North Dakota,LaMoure County,trustclimsciSST,63.498
+1011,North Dakota,LaMoure County,regulate,68.31
+1012,North Dakota,LaMoure County,supportRPS,59.072
+1013,North Dakota,LaMoure County,fundrenewables,80.952
+1014,North Dakota,LaMoure County,happening,64.597
+1015,North Dakota,LaMoure County,human,46.728
+1016,North Dakota,LaMoure County,consensus,43.902
+1017,North Dakota,LaMoure County,worried,51.984
+1018,North Dakota,LaMoure County,personal,35.435
+1019,North Dakota,LaMoure County,harmUS,54.089
+1020,North Dakota,LaMoure County,devharm,58.27
+1021,North Dakota,LaMoure County,futuregen,66.286
+1022,North Dakota,LaMoure County,harmplants,65.269
+1023,North Dakota,LaMoure County,timing,45.47
+1024,North Dakota,Logan County,discuss,31.902
+1025,North Dakota,Logan County,CO2limits,59.056
+1026,North Dakota,Logan County,trustclimsciSST,60.813
+1027,North Dakota,Logan County,regulate,65.916
+1028,North Dakota,Logan County,supportRPS,56.004
+1029,North Dakota,Logan County,fundrenewables,78.565
+1030,North Dakota,Logan County,happening,62.587
+1031,North Dakota,Logan County,human,44.741
+1032,North Dakota,Logan County,consensus,41.609
+1033,North Dakota,Logan County,worried,49.718
+1034,North Dakota,Logan County,personal,35.419
+1035,North Dakota,Logan County,harmUS,53.246
+1036,North Dakota,Logan County,devharm,56.412
+1037,North Dakota,Logan County,futuregen,64.34
+1038,North Dakota,Logan County,harmplants,63.287
+1039,North Dakota,Logan County,timing,44.26
+1040,North Dakota,McHenry County,discuss,30.473
+1041,North Dakota,McHenry County,CO2limits,59.758
+1042,North Dakota,McHenry County,trustclimsciSST,63.159
+1043,North Dakota,McHenry County,regulate,68.365
+1044,North Dakota,McHenry County,supportRPS,58.506
+1045,North Dakota,McHenry County,fundrenewables,79.954
+1046,North Dakota,McHenry County,happening,63.572
+1047,North Dakota,McHenry County,human,46.075
+1048,North Dakota,McHenry County,consensus,41.479
+1049,North Dakota,McHenry County,worried,50.528
+1050,North Dakota,McHenry County,personal,34.311
+1051,North Dakota,McHenry County,harmUS,52.466
+1052,North Dakota,McHenry County,devharm,56.533
+1053,North Dakota,McHenry County,futuregen,65.338
+1054,North Dakota,McHenry County,harmplants,64.255
+1055,North Dakota,McHenry County,timing,44.301
+1056,North Dakota,McIntosh County,discuss,33.382
+1057,North Dakota,McIntosh County,CO2limits,62.299
+1058,North Dakota,McIntosh County,trustclimsciSST,63.196
+1059,North Dakota,McIntosh County,regulate,68.085
+1060,North Dakota,McIntosh County,supportRPS,58.201
+1061,North Dakota,McIntosh County,fundrenewables,80.092
+1062,North Dakota,McIntosh County,happening,65.44
+1063,North Dakota,McIntosh County,human,47.146
+1064,North Dakota,McIntosh County,consensus,44.254
+1065,North Dakota,McIntosh County,worried,53.052
+1066,North Dakota,McIntosh County,personal,36.91
+1067,North Dakota,McIntosh County,harmUS,55.36
+1068,North Dakota,McIntosh County,devharm,58.745
+1069,North Dakota,McIntosh County,futuregen,66.803
+1070,North Dakota,McIntosh County,harmplants,65.936
+1071,North Dakota,McIntosh County,timing,46.695
+1072,North Dakota,McKenzie County,discuss,31.891
+1073,North Dakota,McKenzie County,CO2limits,61.198
+1074,North Dakota,McKenzie County,trustclimsciSST,67.611
+1075,North Dakota,McKenzie County,regulate,70.378
+1076,North Dakota,McKenzie County,supportRPS,62.631
+1077,North Dakota,McKenzie County,fundrenewables,81.141
+1078,North Dakota,McKenzie County,happening,64.599
+1079,North Dakota,McKenzie County,human,48.458
+1080,North Dakota,McKenzie County,consensus,45.438
+1081,North Dakota,McKenzie County,worried,50.251
+1082,North Dakota,McKenzie County,personal,34.284
+1083,North Dakota,McKenzie County,harmUS,53.019
+1084,North Dakota,McKenzie County,devharm,57.96
+1085,North Dakota,McKenzie County,futuregen,65.552
+1086,North Dakota,McKenzie County,harmplants,64.092
+1087,North Dakota,McKenzie County,timing,42.545
+1088,North Dakota,McLean County,discuss,27.97
+1089,North Dakota,McLean County,CO2limits,43.251
+1090,North Dakota,McLean County,trustclimsciSST,61.344
+1091,North Dakota,McLean County,regulate,62.646
+1092,North Dakota,McLean County,supportRPS,55.025
+1093,North Dakota,McLean County,fundrenewables,76.729
+1094,North Dakota,McLean County,happening,57.7
+1095,North Dakota,McLean County,human,42.749
+1096,North Dakota,McLean County,consensus,32.986
+1097,North Dakota,McLean County,worried,50.337
+1098,North Dakota,McLean County,personal,35.085
+1099,North Dakota,McLean County,harmUS,53.531
+1100,North Dakota,McLean County,devharm,57.114
+1101,North Dakota,McLean County,futuregen,64.33
+1102,North Dakota,McLean County,harmplants,61.378
+1103,North Dakota,McLean County,timing,38.59
+1104,North Dakota,Mercer County,discuss,25.964
+1105,North Dakota,Mercer County,CO2limits,38.56
+1106,North Dakota,Mercer County,trustclimsciSST,58.482
+1107,North Dakota,Mercer County,regulate,59.956
+1108,North Dakota,Mercer County,supportRPS,52.188
+1109,North Dakota,Mercer County,fundrenewables,74.749
+1110,North Dakota,Mercer County,happening,53.545
+1111,North Dakota,Mercer County,human,39.489
+1112,North Dakota,Mercer County,consensus,29.198
+1113,North Dakota,Mercer County,worried,46.092
+1114,North Dakota,Mercer County,personal,32.486
+1115,North Dakota,Mercer County,harmUS,49.92
+1116,North Dakota,Mercer County,devharm,53.363
+1117,North Dakota,Mercer County,futuregen,60.978
+1118,North Dakota,Mercer County,harmplants,57.835
+1119,North Dakota,Mercer County,timing,35.772
+1120,North Dakota,Morton County,discuss,29.376
+1121,North Dakota,Morton County,CO2limits,55.905
+1122,North Dakota,Morton County,trustclimsciSST,64.412
+1123,North Dakota,Morton County,regulate,67.599
+1124,North Dakota,Morton County,supportRPS,58.92
+1125,North Dakota,Morton County,fundrenewables,79.523
+1126,North Dakota,Morton County,happening,60.826
+1127,North Dakota,Morton County,human,44.904
+1128,North Dakota,Morton County,consensus,39.044
+1129,North Dakota,Morton County,worried,48.217
+1130,North Dakota,Morton County,personal,32.403
+1131,North Dakota,Morton County,harmUS,50.3
+1132,North Dakota,Morton County,devharm,54.91
+1133,North Dakota,Morton County,futuregen,63.614
+1134,North Dakota,Morton County,harmplants,62.712
+1135,North Dakota,Morton County,timing,41.442
+1136,North Dakota,Mountrail County,discuss,31.939
+1137,North Dakota,Mountrail County,CO2limits,62.104
+1138,North Dakota,Mountrail County,trustclimsciSST,64.748
+1139,North Dakota,Mountrail County,regulate,68.839
+1140,North Dakota,Mountrail County,supportRPS,59.989
+1141,North Dakota,Mountrail County,fundrenewables,80.787
+1142,North Dakota,Mountrail County,happening,65.895
+1143,North Dakota,Mountrail County,human,48.118
+1144,North Dakota,Mountrail County,consensus,43.677
+1145,North Dakota,Mountrail County,worried,53.075
+1146,North Dakota,Mountrail County,personal,36.504
+1147,North Dakota,Mountrail County,harmUS,54.868
+1148,North Dakota,Mountrail County,devharm,59.305
+1149,North Dakota,Mountrail County,futuregen,67.25
+1150,North Dakota,Mountrail County,harmplants,66.284
+1151,North Dakota,Mountrail County,timing,46.42
+1152,North Dakota,Nelson County,discuss,34.046
+1153,North Dakota,Nelson County,CO2limits,65.456
+1154,North Dakota,Nelson County,trustclimsciSST,66.489
+1155,North Dakota,Nelson County,regulate,71.087
+1156,North Dakota,Nelson County,supportRPS,61.927
+1157,North Dakota,Nelson County,fundrenewables,82.24
+1158,North Dakota,Nelson County,happening,68.534
+1159,North Dakota,Nelson County,human,49.96
+1160,North Dakota,Nelson County,consensus,47.27
+1161,North Dakota,Nelson County,worried,55.728
+1162,North Dakota,Nelson County,personal,37.049
+1163,North Dakota,Nelson County,harmUS,56.33
+1164,North Dakota,Nelson County,devharm,60.986
+1165,North Dakota,Nelson County,futuregen,69.53
+1166,North Dakota,Nelson County,harmplants,68.601
+1167,North Dakota,Nelson County,timing,48.215
+1168,North Dakota,Oliver County,discuss,30.392
+1169,North Dakota,Oliver County,CO2limits,43.466
+1170,North Dakota,Oliver County,trustclimsciSST,59.73
+1171,North Dakota,Oliver County,regulate,60.875
+1172,North Dakota,Oliver County,supportRPS,53.47
+1173,North Dakota,Oliver County,fundrenewables,76.446
+1174,North Dakota,Oliver County,happening,58.738
+1175,North Dakota,Oliver County,human,42.696
+1176,North Dakota,Oliver County,consensus,34.484
+1177,North Dakota,Oliver County,worried,51.658
+1178,North Dakota,Oliver County,personal,36.836
+1179,North Dakota,Oliver County,harmUS,55.504
+1180,North Dakota,Oliver County,devharm,58.598
+1181,North Dakota,Oliver County,futuregen,65.258
+1182,North Dakota,Oliver County,harmplants,62.318
+1183,North Dakota,Oliver County,timing,39.571
+1184,North Dakota,Pembina County,discuss,29.464
+1185,North Dakota,Pembina County,CO2limits,60.262
+1186,North Dakota,Pembina County,trustclimsciSST,64.091
+1187,North Dakota,Pembina County,regulate,69.269
+1188,North Dakota,Pembina County,supportRPS,59.643
+1189,North Dakota,Pembina County,fundrenewables,80.154
+1190,North Dakota,Pembina County,happening,63.996
+1191,North Dakota,Pembina County,human,46.308
+1192,North Dakota,Pembina County,consensus,41.447
+1193,North Dakota,Pembina County,worried,50.607
+1194,North Dakota,Pembina County,personal,34.093
+1195,North Dakota,Pembina County,harmUS,52.338
+1196,North Dakota,Pembina County,devharm,56.641
+1197,North Dakota,Pembina County,futuregen,65.801
+1198,North Dakota,Pembina County,harmplants,64.769
+1199,North Dakota,Pembina County,timing,44.471
+1200,North Dakota,Pierce County,discuss,30.608
+1201,North Dakota,Pierce County,CO2limits,61.371
+1202,North Dakota,Pierce County,trustclimsciSST,65.391
+1203,North Dakota,Pierce County,regulate,69.933
+1204,North Dakota,Pierce County,supportRPS,60.656
+1205,North Dakota,Pierce County,fundrenewables,80.371
+1206,North Dakota,Pierce County,happening,63.707
+1207,North Dakota,Pierce County,human,47.07
+1208,North Dakota,Pierce County,consensus,42.946
+1209,North Dakota,Pierce County,worried,50.152
+1210,North Dakota,Pierce County,personal,34.014
+1211,North Dakota,Pierce County,harmUS,52.186
+1212,North Dakota,Pierce County,devharm,56.462
+1213,North Dakota,Pierce County,futuregen,64.995
+1214,North Dakota,Pierce County,harmplants,63.864
+1215,North Dakota,Pierce County,timing,43.657
+1216,North Dakota,Ramsey County,discuss,30.293
+1217,North Dakota,Ramsey County,CO2limits,62.729
+1218,North Dakota,Ramsey County,trustclimsciSST,66.881
+1219,North Dakota,Ramsey County,regulate,71.278
+1220,North Dakota,Ramsey County,supportRPS,62.475
+1221,North Dakota,Ramsey County,fundrenewables,81.398
+1222,North Dakota,Ramsey County,happening,65.254
+1223,North Dakota,Ramsey County,human,48.469
+1224,North Dakota,Ramsey County,consensus,43.363
+1225,North Dakota,Ramsey County,worried,51.968
+1226,North Dakota,Ramsey County,personal,34.062
+1227,North Dakota,Ramsey County,harmUS,52.613
+1228,North Dakota,Ramsey County,devharm,57.588
+1229,North Dakota,Ramsey County,futuregen,66.564
+1230,North Dakota,Ramsey County,harmplants,65.515
+1231,North Dakota,Ramsey County,timing,45.309
+1232,North Dakota,Ransom County,discuss,33.053
+1233,North Dakota,Ransom County,CO2limits,67.411
+1234,North Dakota,Ransom County,trustclimsciSST,68.244
+1235,North Dakota,Ransom County,regulate,72.939
+1236,North Dakota,Ransom County,supportRPS,63.667
+1237,North Dakota,Ransom County,fundrenewables,82.802
+1238,North Dakota,Ransom County,happening,69.696
+1239,North Dakota,Ransom County,human,51.633
+1240,North Dakota,Ransom County,consensus,47.767
+1241,North Dakota,Ransom County,worried,57.601
+1242,North Dakota,Ransom County,personal,37.512
+1243,North Dakota,Ransom County,harmUS,57.147
+1244,North Dakota,Ransom County,devharm,61.915
+1245,North Dakota,Ransom County,futuregen,70.602
+1246,North Dakota,Ransom County,harmplants,69.805
+1247,North Dakota,Ransom County,timing,49.563
+1248,North Dakota,Renville County,discuss,29.224
+1249,North Dakota,Renville County,CO2limits,53.626
+1250,North Dakota,Renville County,trustclimsciSST,61.571
+1251,North Dakota,Renville County,regulate,65.922
+1252,North Dakota,Renville County,supportRPS,56.662
+1253,North Dakota,Renville County,fundrenewables,78.763
+1254,North Dakota,Renville County,happening,60.286
+1255,North Dakota,Renville County,human,43.47
+1256,North Dakota,Renville County,consensus,37.78
+1257,North Dakota,Renville County,worried,47.862
+1258,North Dakota,Renville County,personal,32.618
+1259,North Dakota,Renville County,harmUS,50.411
+1260,North Dakota,Renville County,devharm,54.661
+1261,North Dakota,Renville County,futuregen,63.452
+1262,North Dakota,Renville County,harmplants,61.827
+1263,North Dakota,Renville County,timing,41.112
+1264,North Dakota,Richland County,discuss,30.722
+1265,North Dakota,Richland County,CO2limits,61.093
+1266,North Dakota,Richland County,trustclimsciSST,65.72
+1267,North Dakota,Richland County,regulate,69.983
+1268,North Dakota,Richland County,supportRPS,61.101
+1269,North Dakota,Richland County,fundrenewables,81.014
+1270,North Dakota,Richland County,happening,64.686
+1271,North Dakota,Richland County,human,47.495
+1272,North Dakota,Richland County,consensus,42.797
+1273,North Dakota,Richland County,worried,51.415
+1274,North Dakota,Richland County,personal,33.773
+1275,North Dakota,Richland County,harmUS,52.338
+1276,North Dakota,Richland County,devharm,57.3
+1277,North Dakota,Richland County,futuregen,66.385
+1278,North Dakota,Richland County,harmplants,65.203
+1279,North Dakota,Richland County,timing,44.571
+1280,North Dakota,Rolette County,discuss,32.624
+1281,North Dakota,Rolette County,CO2limits,69.731
+1282,North Dakota,Rolette County,trustclimsciSST,71.148
+1283,North Dakota,Rolette County,regulate,73.88
+1284,North Dakota,Rolette County,supportRPS,66.03
+1285,North Dakota,Rolette County,fundrenewables,82.966
+1286,North Dakota,Rolette County,happening,71.913
+1287,North Dakota,Rolette County,human,55.164
+1288,North Dakota,Rolette County,consensus,47.197
+1289,North Dakota,Rolette County,worried,62.47
+1290,North Dakota,Rolette County,personal,42.707
+1291,North Dakota,Rolette County,harmUS,61.773
+1292,North Dakota,Rolette County,devharm,66.422
+1293,North Dakota,Rolette County,futuregen,72.761
+1294,North Dakota,Rolette County,harmplants,72.285
+1295,North Dakota,Rolette County,timing,54.194
+1296,North Dakota,Sargent County,discuss,33.207
+1297,North Dakota,Sargent County,CO2limits,66.722
+1298,North Dakota,Sargent County,trustclimsciSST,67.762
+1299,North Dakota,Sargent County,regulate,72.336
+1300,North Dakota,Sargent County,supportRPS,63.316
+1301,North Dakota,Sargent County,fundrenewables,82.645
+1302,North Dakota,Sargent County,happening,69.293
+1303,North Dakota,Sargent County,human,51.166
+1304,North Dakota,Sargent County,consensus,47.587
+1305,North Dakota,Sargent County,worried,56.877
+1306,North Dakota,Sargent County,personal,37.102
+1307,North Dakota,Sargent County,harmUS,56.644
+1308,North Dakota,Sargent County,devharm,61.507
+1309,North Dakota,Sargent County,futuregen,70.224
+1310,North Dakota,Sargent County,harmplants,69.351
+1311,North Dakota,Sargent County,timing,48.99
+1312,North Dakota,Sheridan County,discuss,32.296
+1313,North Dakota,Sheridan County,CO2limits,57.28
+1314,North Dakota,Sheridan County,trustclimsciSST,60.459
+1315,North Dakota,Sheridan County,regulate,65.411
+1316,North Dakota,Sheridan County,supportRPS,55.36
+1317,North Dakota,Sheridan County,fundrenewables,78.934
+1318,North Dakota,Sheridan County,happening,62.378
+1319,North Dakota,Sheridan County,human,44.005
+1320,North Dakota,Sheridan County,consensus,41.571
+1321,North Dakota,Sheridan County,worried,48.675
+1322,North Dakota,Sheridan County,personal,34.591
+1323,North Dakota,Sheridan County,harmUS,52.525
+1324,North Dakota,Sheridan County,devharm,55.96
+1325,North Dakota,Sheridan County,futuregen,64.125
+1326,North Dakota,Sheridan County,harmplants,62.983
+1327,North Dakota,Sheridan County,timing,43.061
+1328,North Dakota,Sioux County,discuss,38.914
+1329,North Dakota,Sioux County,CO2limits,74.686
+1330,North Dakota,Sioux County,trustclimsciSST,72.022
+1331,North Dakota,Sioux County,regulate,74.588
+1332,North Dakota,Sioux County,supportRPS,67.129
+1333,North Dakota,Sioux County,fundrenewables,84.673
+1334,North Dakota,Sioux County,happening,76.959
+1335,North Dakota,Sioux County,human,58.741
+1336,North Dakota,Sioux County,consensus,54.68
+1337,North Dakota,Sioux County,worried,68.002
+1338,North Dakota,Sioux County,personal,48.656
+1339,North Dakota,Sioux County,harmUS,67.997
+1340,North Dakota,Sioux County,devharm,72.084
+1341,North Dakota,Sioux County,futuregen,76.944
+1342,North Dakota,Sioux County,harmplants,76.703
+1343,North Dakota,Sioux County,timing,58.905
+1344,North Dakota,Slope County,discuss,33.4
+1345,North Dakota,Slope County,CO2limits,57.856
+1346,North Dakota,Slope County,trustclimsciSST,60.521
+1347,North Dakota,Slope County,regulate,65.108
+1348,North Dakota,Slope County,supportRPS,55.624
+1349,North Dakota,Slope County,fundrenewables,79.246
+1350,North Dakota,Slope County,happening,63.041
+1351,North Dakota,Slope County,human,44.466
+1352,North Dakota,Slope County,consensus,43.033
+1353,North Dakota,Slope County,worried,48.717
+1354,North Dakota,Slope County,personal,34.243
+1355,North Dakota,Slope County,harmUS,52.47
+1356,North Dakota,Slope County,devharm,56.293
+1357,North Dakota,Slope County,futuregen,64.489
+1358,North Dakota,Slope County,harmplants,63.252
+1359,North Dakota,Slope County,timing,42.991
+1360,North Dakota,Stark County,discuss,28.605
+1361,North Dakota,Stark County,CO2limits,55.701
+1362,North Dakota,Stark County,trustclimsciSST,61.896
+1363,North Dakota,Stark County,regulate,66.736
+1364,North Dakota,Stark County,supportRPS,57.015
+1365,North Dakota,Stark County,fundrenewables,78.138
+1366,North Dakota,Stark County,happening,59.354
+1367,North Dakota,Stark County,human,43.777
+1368,North Dakota,Stark County,consensus,38.116
+1369,North Dakota,Stark County,worried,46.0
+1370,North Dakota,Stark County,personal,31.381
+1371,North Dakota,Stark County,harmUS,48.712
+1372,North Dakota,Stark County,devharm,52.768
+1373,North Dakota,Stark County,futuregen,62.238
+1374,North Dakota,Stark County,harmplants,60.973
+1375,North Dakota,Stark County,timing,40.708
+1376,North Dakota,Steele County,discuss,32.561
+1377,North Dakota,Steele County,CO2limits,64.366
+1378,North Dakota,Steele County,trustclimsciSST,66.197
+1379,North Dakota,Steele County,regulate,70.886
+1380,North Dakota,Steele County,supportRPS,61.889
+1381,North Dakota,Steele County,fundrenewables,82.022
+1382,North Dakota,Steele County,happening,67.42
+1383,North Dakota,Steele County,human,49.319
+1384,North Dakota,Steele County,consensus,45.949
+1385,North Dakota,Steele County,worried,54.652
+1386,North Dakota,Steele County,personal,35.763
+1387,North Dakota,Steele County,harmUS,55.052
+1388,North Dakota,Steele County,devharm,59.849
+1389,North Dakota,Steele County,futuregen,68.658
+1390,North Dakota,Steele County,harmplants,67.671
+1391,North Dakota,Steele County,timing,47.195
+1392,North Dakota,Stutsman County,discuss,27.872
+1393,North Dakota,Stutsman County,CO2limits,58.64
+1394,North Dakota,Stutsman County,trustclimsciSST,63.862
+1395,North Dakota,Stutsman County,regulate,68.922
+1396,North Dakota,Stutsman County,supportRPS,59.222
+1397,North Dakota,Stutsman County,fundrenewables,79.491
+1398,North Dakota,Stutsman County,happening,61.366
+1399,North Dakota,Stutsman County,human,45.135
+1400,North Dakota,Stutsman County,consensus,38.956
+1401,North Dakota,Stutsman County,worried,48.503
+1402,North Dakota,Stutsman County,personal,32.293
+1403,North Dakota,Stutsman County,harmUS,49.922
+1404,North Dakota,Stutsman County,devharm,54.24
+1405,North Dakota,Stutsman County,futuregen,63.413
+1406,North Dakota,Stutsman County,harmplants,62.349
+1407,North Dakota,Stutsman County,timing,43.079
+1408,North Dakota,Towner County,discuss,35.613
+1409,North Dakota,Towner County,CO2limits,66.02
+1410,North Dakota,Towner County,trustclimsciSST,66.199
+1411,North Dakota,Towner County,regulate,70.743
+1412,North Dakota,Towner County,supportRPS,61.581
+1413,North Dakota,Towner County,fundrenewables,82.555
+1414,North Dakota,Towner County,happening,69.505
+1415,North Dakota,Towner County,human,50.369
+1416,North Dakota,Towner County,consensus,48.851
+1417,North Dakota,Towner County,worried,56.658
+1418,North Dakota,Towner County,personal,38.15
+1419,North Dakota,Towner County,harmUS,57.771
+1420,North Dakota,Towner County,devharm,62.232
+1421,North Dakota,Towner County,futuregen,70.346
+1422,North Dakota,Towner County,harmplants,69.483
+1423,North Dakota,Towner County,timing,48.925
+1424,North Dakota,Traill County,discuss,32.072
+1425,North Dakota,Traill County,CO2limits,62.76
+1426,North Dakota,Traill County,trustclimsciSST,67.041
+1427,North Dakota,Traill County,regulate,70.219
+1428,North Dakota,Traill County,supportRPS,61.787
+1429,North Dakota,Traill County,fundrenewables,81.339
+1430,North Dakota,Traill County,happening,65.882
+1431,North Dakota,Traill County,human,48.754
+1432,North Dakota,Traill County,consensus,44.379
+1433,North Dakota,Traill County,worried,53.311
+1434,North Dakota,Traill County,personal,34.624
+1435,North Dakota,Traill County,harmUS,53.663
+1436,North Dakota,Traill County,devharm,58.768
+1437,North Dakota,Traill County,futuregen,67.511
+1438,North Dakota,Traill County,harmplants,66.335
+1439,North Dakota,Traill County,timing,45.9
+1440,North Dakota,Walsh County,discuss,29.658
+1441,North Dakota,Walsh County,CO2limits,61.546
+1442,North Dakota,Walsh County,trustclimsciSST,64.231
+1443,North Dakota,Walsh County,regulate,69.078
+1444,North Dakota,Walsh County,supportRPS,59.861
+1445,North Dakota,Walsh County,fundrenewables,80.065
+1446,North Dakota,Walsh County,happening,64.168
+1447,North Dakota,Walsh County,human,47.484
+1448,North Dakota,Walsh County,consensus,42.613
+1449,North Dakota,Walsh County,worried,52.211
+1450,North Dakota,Walsh County,personal,35.109
+1451,North Dakota,Walsh County,harmUS,53.103
+1452,North Dakota,Walsh County,devharm,57.295
+1453,North Dakota,Walsh County,futuregen,65.445
+1454,North Dakota,Walsh County,harmplants,64.403
+1455,North Dakota,Walsh County,timing,45.37
+1456,North Dakota,Ward County,discuss,30.067
+1457,North Dakota,Ward County,CO2limits,59.293
+1458,North Dakota,Ward County,trustclimsciSST,65.578
+1459,North Dakota,Ward County,regulate,69.695
+1460,North Dakota,Ward County,supportRPS,61.046
+1461,North Dakota,Ward County,fundrenewables,80.744
+1462,North Dakota,Ward County,happening,64.315
+1463,North Dakota,Ward County,human,47.103
+1464,North Dakota,Ward County,consensus,42.151
+1465,North Dakota,Ward County,worried,49.175
+1466,North Dakota,Ward County,personal,32.829
+1467,North Dakota,Ward County,harmUS,50.978
+1468,North Dakota,Ward County,devharm,56.071
+1469,North Dakota,Ward County,futuregen,65.49
+1470,North Dakota,Ward County,harmplants,64.256
+1471,North Dakota,Ward County,timing,42.782
+1472,North Dakota,Wells County,discuss,31.788
+1473,North Dakota,Wells County,CO2limits,59.6
+1474,North Dakota,Wells County,trustclimsciSST,62.425
+1475,North Dakota,Wells County,regulate,67.363
+1476,North Dakota,Wells County,supportRPS,57.472
+1477,North Dakota,Wells County,fundrenewables,79.648
+1478,North Dakota,Wells County,happening,63.553
+1479,North Dakota,Wells County,human,45.646
+1480,North Dakota,Wells County,consensus,42.2
+1481,North Dakota,Wells County,worried,50.342
+1482,North Dakota,Wells County,personal,34.759
+1483,North Dakota,Wells County,harmUS,52.953
+1484,North Dakota,Wells County,devharm,56.678
+1485,North Dakota,Wells County,futuregen,65.187
+1486,North Dakota,Wells County,harmplants,64.141
+1487,North Dakota,Wells County,timing,44.415
+1488,North Dakota,Williams County,discuss,27.621
+1489,North Dakota,Williams County,CO2limits,54.196
+1490,North Dakota,Williams County,trustclimsciSST,60.504
+1491,North Dakota,Williams County,regulate,65.091
+1492,North Dakota,Williams County,supportRPS,55.754
+1493,North Dakota,Williams County,fundrenewables,77.425
+1494,North Dakota,Williams County,happening,58.032
+1495,North Dakota,Williams County,human,41.886
+1496,North Dakota,Williams County,consensus,36.43
+1497,North Dakota,Williams County,worried,44.37
+1498,North Dakota,Williams County,personal,30.957
+1499,North Dakota,Williams County,harmUS,47.479
+1500,North Dakota,Williams County,devharm,51.588
+1501,North Dakota,Williams County,futuregen,60.395
+1502,North Dakota,Williams County,harmplants,59.184
+1503,North Dakota,Williams County,timing,40.222
