@@ -1,6 +1,6 @@
 # Data and Decision Making Demo
 
-A demo using [Streamlit](https://streamlit.io) to showcase potential impact of variable selection and consideration of data. Designed for a presentation for coding bootcamp students to help understand importance/relevance of data selection, and to highlight cool tools for them to use like Streamlit.
+A demo using [Streamlit](https://streamlit.io) to showcase and teach the potential impact of variable selection and the responsible, ethical consideration of data. Designed for a presentation for coding bootcamp students to help understand importance/relevance of data selection, and to highlight cool tools for them to use like Streamlit.
 
 Check out the live URL at: [https://data-and-decision-making-demo.streamlit.app](https://data-and-decision-making-demo.streamlit.app)
 
